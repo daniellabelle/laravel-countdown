@@ -1,5 +1,5 @@
 {
-    "name": "jpmurray/laravel-countdown",
+    "name": "baladoquebec/laravel-countdown",
     "type": "library",
     "description": "Provide an easy class easy way to get the time difference between two dates, with an extra bonus trait for eloquent",
     "keywords": [
@@ -10,7 +10,7 @@
         "elapsed",
         "until"
     ],
-    "homepage": "https://github.com/jpmurray/laravel-countdown",
+    "homepage": "https://github.com/baladoquebec/laravel-countdown",
     "license": "MIT",
     "authors": [
         {
